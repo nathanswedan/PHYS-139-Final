@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This repository contains Jupyter notebooks for the PHYS 139 project, focusing on the exploratory data analysis, preprocessing, and model training to predict superconductive materials.
+This repository contains Jupyter notebooks for the PHYS 139 project, focusing on the exploratory data analysis, preprocessing, and model training to predict superconducting transition temperature of different materials.
 
 ## **Files**
 
