@@ -21,7 +21,7 @@ This repository contains Jupyter notebooks for the PHYS 139 project, focusing on
   - Alternatively, you can use the provided `cleaned_supercon_df.csv` and `final_design_matrix_supercond.csv` files.
 - **Requirements**:
   - Update the directories in the notebook to match the locations where the data files are stored on your computer.
-  - -Ensure the 'cleaned_supercon_df.csv' and 'final_design_matrix_supercond.csv' files are downloaded
+  - -Ensure the `cleaned_supercon_df.csv` and `final_design_matrix_supercond.csv` files are downloaded
 
 ## **Setup Instructions**
 
