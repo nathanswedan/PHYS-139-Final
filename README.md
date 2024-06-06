@@ -13,12 +13,12 @@ This repository contains Jupyter notebooks for the PHYS 139 project, focusing on
   - Ensure the `primary.tsv` file is downloaded.
   - Ensure the data files are in the same directory as the notebook
 
-### **2. `PHYS_139_Project_Model_V2.ipynb`**
+### **2. `PHYS_139_Project_Model_Final.ipynb`**
 
 - **Description**: This notebook is used for training the model to predict superconductive materials.
 - **Data Files**:
   - You can obtain the necessary data by running the preprocessing notebook.
-  - Alternatively, you can skip the preprocessing notebook entirely and use the provided `cleaned_supercon_df.csv` and `final_design_matrix_supercond.csv` files.
+  - Alternatively, you can skip the preprocessing notebook entirely and use the provided `cleaned_supercond_df.csv` and `final_design_matrix_supercond.csv` files.
 - **Requirements**:
   - -Ensure the `cleaned_supercon_df.csv` and `final_design_matrix_supercond.csv` files are downloaded and in the same directory
 
