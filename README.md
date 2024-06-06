@@ -24,7 +24,7 @@ This repository contains Jupyter notebooks for the PHYS 139 project, focusing on
 
 ## **Setup Instructions**
 
-1. **Download Data Files**: Ensure all required data files (`primary.tsv`, `cleaned_supercon_df.csv`, `final_design_matrix_supercond.csv`) are downloaded.
+1. **Download Data Files**: Ensure all required data files (`primary.tsv`, `cleaned_supercond_df.csv`, `final_design_matrix_supercond.csv`) are downloaded.
 2. **Directory Requirements**: Ensure all required data files are in the same directory as the notebook
 3. **Run Notebooks**: Execute the notebooks in the following order:
    1. `PHYS_139_Project_EDA_Data-Preprocessing.ipynb` to preprocess and clean the data.
